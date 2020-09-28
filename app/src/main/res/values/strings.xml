@@ -5,5 +5,8 @@
     <string name="Lower_Text">Lower</string>
     <string name="Higher_Text">Higher</string>
     <string name="LastThr_Text">Last Throw:</string>
-    <string name="TempNumb_Text">Nr</string>
+    <string name="TempNumb_Text">%d</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+
 </resources>
